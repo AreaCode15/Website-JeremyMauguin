@@ -1,10 +1,3 @@
-/**
-* Template Name: Day - v4.9.0
-* Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -431,7 +424,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/banner.jpg") top center;
   background-size: cover;
   position: relative;
 }
